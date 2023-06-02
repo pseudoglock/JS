@@ -6,7 +6,7 @@ let fullPrice = 100000;
 let adaptive = true;
 
 
-alert("Пососи");
+alert("Ок");
 console.log(title + fullPrice + adaptive);
 console.log(screens.length);
 console.log(screens)
